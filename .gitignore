@@ -44,6 +44,9 @@
 #Intermediate
 Intermediate/
 
+#Saved
+Saved/
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
