@@ -18,7 +18,8 @@ public class DragoonExit8 : ModuleRules
 			"StateTreeModule",
 			"GameplayStateTreeModule",
 			"UMG",
-			"Slate"
+			"Slate",
+			"Kismet"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
@@ -26,11 +27,7 @@ public class DragoonExit8 : ModuleRules
 		PublicIncludePaths.AddRange(new string[] {
 			"DragoonExit8",
 			"DragoonExit8/Variant_Horror",
-			"DragoonExit8/Variant_Horror/UI",
-			"DragoonExit8/Variant_Shooter",
-			"DragoonExit8/Variant_Shooter/AI",
-			"DragoonExit8/Variant_Shooter/UI",
-			"DragoonExit8/Variant_Shooter/Weapons"
+			"DragoonExit8/Variant_Horror/UI"
 		});
 
 		// Uncomment if you are using Slate UI

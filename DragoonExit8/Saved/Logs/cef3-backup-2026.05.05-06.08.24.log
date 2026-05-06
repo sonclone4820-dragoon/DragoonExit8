@@ -1,5 +1,0 @@
-[32344:26588:0505/111525.866:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[32344:13668:0505/111525.891:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[32344:26588:0505/111525.906:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21768:13912:0505/111533.004:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 11
-[32344:26588:0505/130824.635:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
